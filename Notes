@@ -1,0 +1,10 @@
+🗒️ Notes (Command Explanations)
+
+- ping -n 1 -4 localhost  
+  Confirms that the local network stack is functioning correctly by sending a single IPv4 ping to the machine itself.
+
+- ping -n 1 -4 router.lan  
+  Test's connectivity to the default gateway to verify that the device can reach the router and that the static IP configuration is valid.
+
+- nslookup www.515web.net  
+  Checks DNS resolution to ensure the system can successfully resolve external domain names beyond the local network.
