@@ -35,12 +35,13 @@ This section contains the commands used to verify network connectivity after app
 
 ## 📂 Repository Structure
 Configuring-IP-Lab/
-- Notes/
 - Screenshots/
   - initial-no-connectivity.png
   - static-ip-configuration.png
   - connectivity-tests-successful.png
+- Notes/
 - README.md
+
 
 
 
